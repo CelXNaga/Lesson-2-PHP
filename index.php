@@ -1,5 +1,5 @@
 <?php
-header("content_type:text/html;charset='utf-8'");
+header("content_type:text/html;charset=UTF-8");
 
 require_once("config.php"); 
 require_once("classes/core.php");
